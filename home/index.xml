@@ -54,37 +54,5 @@ Carga -&amp;gt; Consome energia
    Associação de resistores Resistores ligados em série e em paralelo</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/pe-aula02/home/kirchhoff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/pe-aula02/home/kirchhoff/</guid>
-      <description> Leis de Kirchhoff  Para entender a lei de Kirschhoff
-  Conceito de nó
-  Conceito de malha
-   nó   &amp;ldquo;A soma algébrica das correntes em um nó em qualquer instante é zero&amp;rdquo;
-  malha   &amp;ldquo;A soma algébrica das tensões ao longo de uma malha em qualquer instante é zero&amp;rdquo;
-  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/pe-aula02/home/tinkercad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/pe-aula02/home/tinkercad/</guid>
-      <description> Tinkercad Apresentação do simulador
-Acesse clicando aqui e crie uma conta.
- Circuito 1 link
- Circuito 2 link
- Circuito 3 link
- Circuito 4 link
- Circuito 5 link
- Circuito 6 link
- Circuito 7 link
- </description>
-    </item>
-    
   </channel>
 </rss>
